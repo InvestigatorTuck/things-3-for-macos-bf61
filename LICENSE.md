@@ -1,4 +1,4 @@
-
+Enhance Things 3 for macOS with instant Macro for Things 3 for macOS - auto-sync and multi-device sync, the #1 macro. Includes auto-sync and multi-device sync for a smoother
 
 
 
